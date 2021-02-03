@@ -1,0 +1,24 @@
+{
+  "name": "handie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1120CDFSNCN29ARED/grupo-13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1120CDFSNCN29ARED/grupo-13/issues"
+  },
+  "homepage": "https://github.com/1120CDFSNCN29ARED/grupo-13#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.7.0",
+    "nodemon": "^2.0.7"
+  }
+}
