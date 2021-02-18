@@ -16,4 +16,4 @@
  ### Stop doing
  - No atrasarse con el material.
  - Dejar de forzar reuniones.
- - 
+ 
