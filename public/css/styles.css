@@ -2,3 +2,13 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: crimson;
 };
+
+
+main{
+    background-color: black;
+}
+
+.banner{
+height: 200px;
+width: 400px; 
+}
